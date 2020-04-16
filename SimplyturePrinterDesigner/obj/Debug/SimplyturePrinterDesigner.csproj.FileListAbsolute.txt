@@ -1,0 +1,12 @@
+C:\Users\Jonathan\Desktop\tst\SimplyturePrinterDesigner\SimplyturePrinterDesigner\bin\Debug\SimplyturePrinterDesigner.exe.config
+C:\Users\Jonathan\Desktop\tst\SimplyturePrinterDesigner\SimplyturePrinterDesigner\bin\Debug\SimplyturePrinterDesigner.exe
+C:\Users\Jonathan\Desktop\tst\SimplyturePrinterDesigner\SimplyturePrinterDesigner\bin\Debug\SimplyturePrinterDesigner.pdb
+C:\Users\Jonathan\Desktop\tst\SimplyturePrinterDesigner\SimplyturePrinterDesigner\obj\Debug\SimplyturePrinterDesigner.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Desktop\tst\SimplyturePrinterDesigner\SimplyturePrinterDesigner\obj\Debug\SimplyturePrinterDesigner.Form1.resources
+C:\Users\Jonathan\Desktop\tst\SimplyturePrinterDesigner\SimplyturePrinterDesigner\obj\Debug\SimplyturePrinterDesigner.Properties.Resources.resources
+C:\Users\Jonathan\Desktop\tst\SimplyturePrinterDesigner\SimplyturePrinterDesigner\obj\Debug\SimplyturePrinterDesigner.csproj.GenerateResource.Cache
+C:\Users\Jonathan\Desktop\tst\SimplyturePrinterDesigner\SimplyturePrinterDesigner\obj\Debug\SimplyturePrinterDesigner.exe
+C:\Users\Jonathan\Desktop\tst\SimplyturePrinterDesigner\SimplyturePrinterDesigner\obj\Debug\SimplyturePrinterDesigner.pdb
+C:\Users\Jonathan\Desktop\tst\SimplyturePrinterDesigner\SimplyturePrinterDesigner\bin\Debug\StarIO.dll
+C:\Users\Jonathan\Desktop\tst\SimplyturePrinterDesigner\SimplyturePrinterDesigner\bin\Debug\StarIO.xml
+C:\Users\Jonathan\Desktop\tst\SimplyturePrinterDesigner\SimplyturePrinterDesigner\bin\Debug\StarIOPort.dll
